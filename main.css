@@ -1,0 +1,13 @@
+body {
+    margin: 0px;
+    background-color:#000;
+}
+
+canvas {
+    height:100%;
+    position: fixed;
+  top: 50px;
+  left: 35vw;
+  margin-top: -50px;
+  margin-left: -200px;
+}
